@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-chat2-2fcc7": {
+      "hosting": {
+        "angular-chat": [
+          "angular-chat2-2fcc7"
+        ]
+      }
+    }
+  }
+}
